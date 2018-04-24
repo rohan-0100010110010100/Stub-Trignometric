@@ -1,6 +1,6 @@
 #include <iostream>
 #include "lookup_gen.h"
-#include <math.h>
+
 using namespace std;
 
 int main()
