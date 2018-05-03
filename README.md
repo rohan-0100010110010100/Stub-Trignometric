@@ -9,4 +9,4 @@ This is a libray for generating the cosine of the angles at compile time, so no-
 
 **Note**
 
-The architecture should support a floating point numbers with fixed precision. Don't use ```constexpr``` in floating point types  because it will break the code and make the code non-portable , the reason for this is " The flaoting point precision is not fixed  across multiple architectures ".
+The architecture should support a floating point numbers with fixed precision. Don't use ```constexpr``` in floating point types  because it will break the code and make the code non-portable , the reason for this is " The floating point precision is not fixed  across multiple architectures ".
